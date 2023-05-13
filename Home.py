@@ -78,7 +78,6 @@ def ui_info():
 	Your OpenAI key is:
 	"""
 	)
-	st.write("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")
 
 def ui_api_key():
 		st.write('## 1. Enter your OpenAI API key')
