@@ -74,10 +74,7 @@ def ui_info():
 		and may contain bugs or unfinished features.
 		""")
 	ui_spacer(1)
-	st.write("""
-	Your OpenAI key is:
-	"""
-	)
+	
 
 def ui_api_key():
 		st.write('## 1. Enter your OpenAI API key')
