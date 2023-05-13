@@ -63,7 +63,7 @@ def ui_info():
 	# Incribo AuroraAI Demo Model
 	version {__version__}
 	
-	Ask Questions, get annual company reports, convert Excel files into pdfs.
+	Ask Questions from pdfs.
 	""")
 	ui_spacer(1)
 	st.write("Made by [Incribo](https://www.linkedin.com/company/incribo/?viewAsMember=true).", unsafe_allow_html=True)
